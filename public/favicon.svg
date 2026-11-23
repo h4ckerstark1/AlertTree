@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="AlertTree">
+  <rect width="32" height="32" rx="7" fill="#0f172a" />
+  <path d="M16 6 L24 18 H19 L23 25 H9 L13 18 H8 Z" fill="#34d399" />
+  <rect x="14.5" y="24" width="3" height="3" rx="1" fill="#34d399" />
+</svg>

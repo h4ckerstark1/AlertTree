@@ -1,3 +1,33 @@
+<p align="center">
+<img width="800" height="500" alt="AlertTree Network Logo" src="https://github.com/user-attachments/assets/1e7170b0-01e0-4ceb-9db8-23c8c4f61c0b" />
+</p>
+
+<!-- AlertTree Badges -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" alt="Development Status">
+  <img src="https://img.shields.io/badge/Project-AI_SaaS-purple?style=flat-square" alt="AI SaaS">
+  <img src="https://img.shields.io/badge/Platform-Web_App-blue?style=flat-square" alt="Web App">
+  <img src="https://img.shields.io/badge/Open_Source-Yes-brightgreen?style=flat-square" alt="Open Source">
+  <img src="https://img.shields.io/badge/Security-First-darkgreen?style=flat-square" alt="Security First">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Build-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Styling-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=flat-square" alt="AI Powered">
+  <img src="https://img.shields.io/badge/Workflow-Automation-orange?style=flat-square" alt="Workflow Automation">
+  <img src="https://img.shields.io/badge/Intelligence-Monitoring-red?style=flat-square" alt="Intelligence Monitoring">
+  <img src="https://img.shields.io/badge/Developer-H4ckerStark1-red?style=flat-square" alt="Developer">
+</p>
+
+
+
 # 🌳 AlertTree
 
 ### Never Miss. Never Forget. Stay Ahead.
@@ -7,28 +37,6 @@
 Our vision is to bring intelligence discovery, proactive monitoring, AI assistance, and automation together in one security-conscious platform.
 
 ---
-
-### 🏷️ Repository Badges
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/h4ckerstark1/AlertTree?style=flat-square&logo=github&label=Stars" />
-  <img src="https://img.shields.io/github/forks/h4ckerstark1/AlertTree?style=flat-square&label=Forks" />
-  <img src="https://img.shields.io/github/watchers/h4ckerstark1/AlertTree?style=flat-square&label=Watchers" />
-  <img src="https://img.shields.io/github/issues/h4ckerstark1/AlertTree?style=flat-square&label=Issues" />
-  <img src="https://img.shields.io/github/issues-pr/h4ckerstark1/AlertTree?style=flat-square&label=Pull%20Requests" />
-  <img src="https://img.shields.io/github/last-commit/h4ckerstark1/AlertTree?style=flat-square&label=Last%20Commit" />
-  <img src="https://img.shields.io/github/repo-size/h4ckerstark1/AlertTree?style=flat-square&label=Repo%20Size" />
-  <img src="https://img.shields.io/github/languages/top/h4ckerstark1/AlertTree?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Early%20Development-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-First-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-Project-blue?style=flat-square" />
-</p>
-
-
 ## 📖 About AlertTree
 
 AlertTree aims to become an intelligent platform that combines:
